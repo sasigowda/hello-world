@@ -32,5 +32,4 @@
   </div>
 
    <h1> Thankyou, Happy Devops Learning </h1>
-   <h1> Thankyou, Happy AWS Learning </h1>
 </form>
